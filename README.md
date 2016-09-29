@@ -28,4 +28,4 @@ Yeah, [here](http://www.bitfalls.com/search/label/Chrome%20Development)
 ###How can I contribute?
 Keep it up to date. Add some more options that don't complicate things for the user. Write examples and let me know where you used this Skeleton extension, I'll link to them here. Anything helps.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46899860-1/chromeskel_a/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-84960105-1/chromeskel_a/readme)](https://github.com/igrigorik/ga-beacon)
